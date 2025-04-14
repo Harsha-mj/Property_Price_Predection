@@ -1,8 +1,9 @@
 # 🏡 Property Price Prediction App
 
 This web app uses a machine learning model to predict the estimated price of a property based on various features like size, age, location, and property type.
+Click on [Streamlit](https://propertypricepredection-fsybbqrdwfpeqmdinbazju.streamlit.app/) to open the app
 
-Built with [Streamlit](https://propertypricepredection-fsybbqrdwfpeqmdinbazju.streamlit.app/) and trained on real estate data, this tool helps estimate property prices quickly and interactively.
+Built with Streamlit and trained on real estate data, this tool helps estimate property prices quickly and interactively.
 
 ---
 
